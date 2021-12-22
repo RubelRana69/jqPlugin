@@ -1,0 +1,20 @@
+.btn_count{
+  background-color: green;
+  width:100px;
+  height:100px;
+  border-radius:100%;
+  size:50px;
+}
+.btn_count:hover{
+  color: red;
+  transition: 0.5s;
+}
+.box{
+  min-height: 100px;
+}
+.aos{
+  text-align: center;
+  min-height: 100px;
+  size:50px !important;
+  background-color: gray;
+}
